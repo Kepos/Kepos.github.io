@@ -1,0 +1,18 @@
+body {
+  padding: 10px;
+  background-color: rgb(32, 32, 32);
+  color: white;
+  font-family: 'Apercu';
+}
+
+h3 {
+  color: rgb(12, 221, 151);
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: row;
+}
+
+#date {
+  color: white;
+  margin-left: 6px;
+}
